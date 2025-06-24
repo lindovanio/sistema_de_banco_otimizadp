@@ -1,1 +1,1 @@
-# sistema_de_banco_otimizadp
+# sistema_de_banco_otimizado
